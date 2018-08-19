@@ -1,0 +1,50 @@
+{
+	"basics":{
+		"Name":"keerthi",
+		"Role":"Mean-stack",
+		"mobile":"+91 9876543210",
+		"email":"gurrapuirumala@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+          "Degree":"B.Tech(Computer Science&Engineering)",
+          "Institute":"Vignan Nirula",
+          "Data":["2016-20","85%"]
+	},
+
+			{
+          "Degree":"Intermediate(MPC)",
+          "Institute":"Sri Chaitanya",
+          "Data":["2014-16","85%"]
+	},
+			{
+          "Degree":"SSC",
+          "Institute":"SIEM",
+          "Data":["2013-14","85%"]
+         	}
+
+
+    ],
+    "skills":[
+    	{
+           "title":"Programming Languages",
+           "content":["Python","C","Java","R","C++"]
+    	},
+    	{
+           "title":"Databases",
+           "content":["Sql","Oracle","MySql"]
+    	},
+    	{
+           "title":"Web Technologies",
+           "content":["HTML","XML","JavaScript"]
+    	},
+    	{
+           "title":"Operating system",
+           "content": ["MSDOS","WINDOWS","LINUX"]
+    	}
+    ]
+           
+}		
